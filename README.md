@@ -1,4 +1,4 @@
-Journal App: Made with Flutter
+Waste-a-Gram: Made with Flutter
 
 Preview:
 
